@@ -1,4 +1,4 @@
-# Caesar-ConsoleViewer
+# Caesar-Oculus
 ![Version](https://img.shields.io/badge/Version-v0.0.1-green)![Update](https://img.shields.io/badge/Update-23.4.2025-blue)
 
 This repository contains the Caesar frontend modules **ConsoleViewer.**
