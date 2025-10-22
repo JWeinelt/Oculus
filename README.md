@@ -12,5 +12,5 @@ With this extension, you are able to open Minecraft server consoles in a separat
 
 <a href="https://github.com/FireAnimationStudios "><img src="https://github.com/FireAnimationStudios.png" width="50" height="50" alt="@FireAnimationStudios "/></a>
 <a href="https://github.com/PhastixTV"><img src="https://github.com/PhastixTV.png" width="50" height="50" alt="@PhastixTV"/></a>
-<a href="https://github.com/PluginCrafter"><img src="https://github.com/PluginCrafter.png" width="50" height="50" alt="@PluginCrafter"/></a>
+<a href="https://github.com/michaelmawick"><img src="https://github.com/michaelmawick.png" width="50" height="50" alt="@michaelmawick"/></a>
 <a href="https://github.com/ProJakob"><img src="https://github.com/ProJakob.png" width="50" height="50" alt="@ProJakob"/></a>
